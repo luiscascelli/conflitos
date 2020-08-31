@@ -4,5 +4,7 @@ Repositório para teste de resolução manual de conflito.
 
 * Mercurial
 * GitLab
+* Git
+* GitHub
 * Subversion
 * CVS
